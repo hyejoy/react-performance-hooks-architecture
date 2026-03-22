@@ -1,10 +1,11 @@
 import "./App.css";
-import SercureParent from "./components/useImperativeHandle/SercureParent";
+import SignupForm from "./components/useImperativeHandle/SignupForm";
 
 export default function App() {
   return (
     <>
-      <SercureParent />
+      <SignupForm />
+      <h1>App Component</h1>
     </>
   );
 }
