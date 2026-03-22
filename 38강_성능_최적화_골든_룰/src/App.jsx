@@ -1,0 +1,4 @@
+import SeniorReview from "./components/SeniorReview";
+export default function App() {
+  return <SeniorReview />;
+}

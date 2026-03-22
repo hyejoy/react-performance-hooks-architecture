@@ -1,0 +1,4 @@
+import AdvancedDropdown from "./components/AdvancedDropdown";
+export default function App() {
+  return <AdvancedDropdown />;
+}
